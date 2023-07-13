@@ -6,9 +6,6 @@
 if($_SERVER['REQUEST_METHOD'] == "POST") {
 
 
-    // ini_set( 'sendmail_from', "mr.ahmedsaleh.86@gmail.com" ); 
-    // ini_set( 'SMTP', "mail.bigpond.com" );  
-    // ini_set( 'smtp_port', 25 );
 
 
     // Assign a Variables :
